@@ -1,0 +1,6 @@
+export_gitbook.py
+capture_book_pdf.py
+book_clean/
+book-template.html
+build_pdf.sh
+PSID_For_the_Rest_of_Us.html
